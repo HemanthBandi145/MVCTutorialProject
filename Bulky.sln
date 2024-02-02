@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyWeb", "BulkyWeb\BulkyWeb.csproj", "{A5A75CED-ABFD-49F5-923A-23D101E1F5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A75CED-ABFD-49F5-923A-23D101E1F5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A75CED-ABFD-49F5-923A-23D101E1F5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A75CED-ABFD-49F5-923A-23D101E1F5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A75CED-ABFD-49F5-923A-23D101E1F5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D270D53-A5B3-4607-BA34-5BDF3D5C2BB2}
+	EndGlobalSection
+EndGlobal
